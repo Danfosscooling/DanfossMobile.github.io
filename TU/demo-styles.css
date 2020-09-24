@@ -17,7 +17,7 @@ body {
 }
 
 model-viewer {
-  width: 100%;
+  width: 350%;
   height: 350px;
   background-color: #ffffff;
 }
