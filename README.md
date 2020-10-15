@@ -1,3 +1,3 @@
 # DanfossMobile.github.io
 
-hi myself vikram. I have been working in your esteemed company in  the role of ___ since ____. It had been great working with you.I have gained an immense knowledge and experiance in working with you. But Due to this covid pandemic I am facing financial distress and my family is not willing to let me to shift to puducherry. So I would like to relieve from the current role of mine and from your esteemed company so that I can look for another role in Hyderabad which is closer to my location. Hoping that you'll consider my resignation and looking forward to hear from you. Thanking you sir
+
